@@ -1,4 +1,4 @@
-<h1 style="color:blue">Hospital Mangment System Made with Laravel 8</h1>
+<h1 style="color:blue">Hospital Managment System Made with Laravel 8</h1>
 <h3>Front End</h3>
 
 <img src="FrontEnd.png" />
@@ -14,8 +14,6 @@
 <h2 style="color:cyan">Installation</h2>
 <ul>
     <li>Clone the Repo: <br> </li>
-    <li style=""> > git clone https://github.com/tauseedzaman/hospitalMS.git</li>
-    <li> > cd hospitalMS</li>
     <li> > composer install</li>
     <li> > cp .env.example .env</li>
     <li> > Set up .env file</li>
