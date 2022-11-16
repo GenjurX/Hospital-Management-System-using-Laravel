@@ -1,4 +1,4 @@
-
+<h1>Hospital Management System using Laravel</h1>
 <ul>
     <li>Clone the Repo: <br> </li>
     <li> > composer install</li>
